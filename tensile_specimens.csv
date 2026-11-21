@@ -1,0 +1,4 @@
+sample_id,gauge_width_mm,gauge_thickness_mm,area_reported_mm2,ultimate_load_kN,uts_reported_MPa
+T1,10.16,19.77,200.38,19.43,97.00
+T2,10.08,19.73,198.88,16.76,84.00
+T3,10.03,19.75,198.09,18.22,92.00
